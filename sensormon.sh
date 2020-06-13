@@ -1,6 +1,7 @@
 #!/bin/bash
 # Quick script to upload motherboard sensors info
-# To a ElasticSearch installation
+# to an ElasticSearch installation
+# https://github.com/fcoromo/elk-serversensors/
 
 
 # Your ElasticSearch hostname & port
